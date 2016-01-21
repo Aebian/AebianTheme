@@ -3,7 +3,7 @@
 	<div class="navbar navbar-default" role="navigation" id="top-nav" style="z-index: 5;">
 		<div class="navbar-header">
 			<!-- Logo Starts -->
-			<a class="navbar-brand" href="https://Aebian.org"><img src="https://assets-cdn.aebian.org/aebian.org/logo.png" alt="logo"></a>
+			<a class="navbar-logo" href="https://Aebian.org"><img src="https://assets-cdn.aebian.org/aebian.org/logo.png" alt="logo"></a>
 			<!-- #Logo Ends -->
 		</div>
 		<!-- Nav Starts -->
