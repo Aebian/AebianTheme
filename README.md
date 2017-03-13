@@ -8,4 +8,4 @@ ________
 
 ###Can I modify it?
 ________
-If you have the knowledge feel free to do it. 
+As long as you don't bother me, sure.  
